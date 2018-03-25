@@ -1,0 +1,2 @@
+# schoolMgt
+School Management Project
